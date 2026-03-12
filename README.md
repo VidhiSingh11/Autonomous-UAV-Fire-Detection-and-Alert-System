@@ -1,5 +1,10 @@
 #  Autonomous UAV Fire Detection and Alert System
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-ObjectDetection-green)
+![AirSim](https://img.shields.io/badge/AirSim-DroneSimulation-orange)
+![Unreal Engine](https://img.shields.io/badge/UnrealEngine-4.27-black)
 ##  Overview
 
 This project presents an **Autonomous UAV-based Fire Detection and Alert System** developed using **computer vision and drone simulation technologies**. The system integrates a **YOLOv11 deep learning model** with a simulated UAV environment to detect fire and smoke in real time.
